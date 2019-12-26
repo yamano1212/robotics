@@ -18,7 +18,6 @@ def bins(clip_min, clip_max, num):
 #return部分では、離散化された状態をnum_digitizedで６進数で表現している
 #例えば、（カート位置、カート速度、棒の角度、棒の角速度）＝（１、２、３、４）の時は
 #1 ∗ 60 + 2 ∗ 61 + 3 ∗ 62 + 4 ∗ 63 = 985
-
 def digitize_state(observation):
     cart_pos, cart_v, pole_angle, pole_v = observation
     digitized = [
