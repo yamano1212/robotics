@@ -48,9 +48,9 @@ slack連携a
 
   ``` sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654 ```
 
-   ``` sudo apt update ```
+  ``` sudo apt update ```
 
-   ``` sudo apt install ros-melodic-desktop-full ```
+  ``` sudo apt install ros-melodic-desktop-full ```
 
   ``` sudo rosdep init ```
 
@@ -64,7 +64,7 @@ slack連携a
 
   ``` cd ~/catkin_ws/src ```
 
-  `` catkin_init_workspace ```
+  ``` catkin_init_workspace ```
 
   ``` cd ~/catkin_ws/ ```
 
