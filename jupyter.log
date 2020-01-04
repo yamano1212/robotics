@@ -1,0 +1,13 @@
+[I 14:55:56.656 NotebookApp] JupyterLab beta preview extension loaded from /Users/yamanoakirayuu/.pyenv/versions/anaconda3-5.2.0/lib/python3.6/site-packages/jupyterlab
+[I 14:55:56.656 NotebookApp] JupyterLab application directory is /Users/yamanoakirayuu/.pyenv/versions/anaconda3-5.2.0/share/jupyter/lab
+[I 14:55:56.661 NotebookApp] Serving notebooks from local directory: /Users/yamanoakirayuu/src/robotics
+[I 14:55:56.661 NotebookApp] 0 active kernels
+[I 14:55:56.661 NotebookApp] The Jupyter Notebook is running at:
+[I 14:55:56.661 NotebookApp] http://localhost:8888/?token=28757257b00026f9f86b206f362f2fddcd541bb8305c21ca
+[I 14:55:56.661 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:55:56.662 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=28757257b00026f9f86b206f362f2fddcd541bb8305c21ca&token=28757257b00026f9f86b206f362f2fddcd541bb8305c21ca
+[I 14:55:56.849 NotebookApp] Accepting one-time-token-authenticated connection from ::1
