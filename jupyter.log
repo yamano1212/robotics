@@ -11,3 +11,28 @@
     to login with a token:
         http://localhost:8888/?token=28757257b00026f9f86b206f362f2fddcd541bb8305c21ca&token=28757257b00026f9f86b206f362f2fddcd541bb8305c21ca
 [I 14:55:56.849 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 14:57:17.197 NotebookApp] Kernel started: 445ec95c-8f75-4efe-8ee6-77b561afead1
+[I 14:57:17.697 NotebookApp] Adapting to protocol v5.1 for kernel 445ec95c-8f75-4efe-8ee6-77b561afead1
+[I 15:01:17.189 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:03:17.190 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:05:17.173 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:07:17.183 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:09:17.180 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:11:17.189 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:13:17.197 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:23:17.195 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:25:17.322 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:27:17.199 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:31:17.195 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:33:17.201 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:35:17.201 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:37:17.199 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:39:17.202 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:39:42.767 NotebookApp] Creating new notebook in 
+[I 15:39:43.324 NotebookApp] Kernel started: 08a54000-bb6d-436c-8e1f-0cf5eb9308d9
+[I 15:39:43.932 NotebookApp] Adapting to protocol v5.1 for kernel 08a54000-bb6d-436c-8e1f-0cf5eb9308d9
+[I 15:41:17.323 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:41:43.311 NotebookApp] Saving file at /uncertainly.ipynb
+[I 15:45:17.210 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:46:11.483 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:49:43.307 NotebookApp] Saving file at /uncertainly.ipynb
