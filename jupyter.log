@@ -36,3 +36,18 @@
 [I 15:45:17.210 NotebookApp] Saving file at /robotics_003.ipynb
 [I 15:46:11.483 NotebookApp] Saving file at /robotics_003.ipynb
 [I 15:49:43.307 NotebookApp] Saving file at /uncertainly.ipynb
+[I 15:51:46.474 NotebookApp] Saving file at /uncertainly.ipynb
+[I 15:53:43.406 NotebookApp] Saving file at /uncertainly.ipynb
+[I 15:54:14.357 NotebookApp] Saving file at /robotics_003.ipynb
+[I 15:54:21.181 NotebookApp] Starting buffering for 445ec95c-8f75-4efe-8ee6-77b561afead1:3b9d25c86b1a4219bd2a482d3ba0e3af
+[I 15:54:21.704 NotebookApp] Kernel restarted: 445ec95c-8f75-4efe-8ee6-77b561afead1
+[I 15:54:22.170 NotebookApp] Adapting to protocol v5.1 for kernel 445ec95c-8f75-4efe-8ee6-77b561afead1
+[I 15:54:22.171 NotebookApp] Restoring connection for 445ec95c-8f75-4efe-8ee6-77b561afead1:3b9d25c86b1a4219bd2a482d3ba0e3af
+[I 15:54:22.171 NotebookApp] Replaying 6 buffered messages
+[IPKernelApp] WARNING | No such comm: c892728e0e6440b18a730a3460a9c6a7
+[I 15:54:30.195 NotebookApp] Starting buffering for 08a54000-bb6d-436c-8e1f-0cf5eb9308d9:dd6405fefc7440889695a265cc307b6a
+[I 15:54:30.512 NotebookApp] Kernel restarted: 08a54000-bb6d-436c-8e1f-0cf5eb9308d9
+[I 15:54:30.968 NotebookApp] Adapting to protocol v5.1 for kernel 08a54000-bb6d-436c-8e1f-0cf5eb9308d9
+[I 15:54:30.968 NotebookApp] Restoring connection for 08a54000-bb6d-436c-8e1f-0cf5eb9308d9:dd6405fefc7440889695a265cc307b6a
+[I 15:54:30.968 NotebookApp] Replaying 6 buffered messages
+[I 15:55:43.306 NotebookApp] Saving file at /uncertainly.ipynb

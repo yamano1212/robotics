@@ -1,9 +1,4 @@
-
 # coding: utf-8
-
-# In[1]:
-
-
 import matplotlib
 matplotlib.use('nbagg')
 import matplotlib.animation as anm
@@ -11,10 +6,6 @@ import matplotlib.pyplot as plt
 import math
 import matplotlib.patches as patches
 import numpy as np
-
-
-# In[8]:
-
 
 class World:
     def __init__(self, time_span, time_interval, debug=False):
@@ -51,10 +42,6 @@ class World:
         for obj in self.objects:
             obj.draw(ax, elems)
             if hasattr(obj, "one_step"): obj.one_step(self.time_interval)
-
-
-# In[19]:
-
 
 class IdealRobot:   
     def __init__(self, pose, agent=None, sensor=None, color="black"):    # 引数を追加
@@ -98,10 +85,6 @@ class IdealRobot:
         self.pose = self.state_transition(nu, omega, time_interval, self.pose)
         if self.sensor: self.sensor.data(self.pose)
 
-
-# In[4]:
-
-
 class Agent: 
     def __init__(self, nu, omega):
         self.nu = nu
@@ -109,10 +92,6 @@ class Agent:
         
     def decision(self, observation=None):
         return self.nu, self.omega
-
-
-# In[10]:
-
 
 class Landmark:
     def __init__(self, x, y):
@@ -124,10 +103,6 @@ class Landmark:
         elems.append(c)
         elems.append(ax.text(self.pos[0], self.pos[1], "id:" + str(self.id), fontsize=10))
 
-
-# In[11]:
-
-
 class Map:
     def __init__(self):       # 空のランドマークのリストを準備
         self.landmarks = []
@@ -138,9 +113,6 @@ class Map:
 
     def draw(self, ax, elems):                 # 描画（Landmarkのdrawを順に呼び出し）
         for lm in self.landmarks: lm.draw(ax, elems)
-
-
-# In[22]:
 
 
 class IdealCamera:
@@ -183,11 +155,7 @@ class IdealCamera:
             lx = x + distance * math.cos(direction + theta)
             ly = y + distance * math.sin(direction + theta)
             elems += ax.plot([x,lx], [y,ly], color="pink")
-
-
-# In[23]:
-
-
+"""
 if __name__ == '__main__':   ###name_indent
     world = World(30, 0.1) 
 
@@ -216,4 +184,4 @@ if __name__ == '__main__':   ###name_indent
 cam = IdealCamera(m)                ### fig:try_camera
 p =cam.data(robot2.pose)
 print(p)
-
+"""
