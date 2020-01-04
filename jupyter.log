@@ -51,3 +51,8 @@
 [I 15:54:30.968 NotebookApp] Restoring connection for 08a54000-bb6d-436c-8e1f-0cf5eb9308d9:dd6405fefc7440889695a265cc307b6a
 [I 15:54:30.968 NotebookApp] Replaying 6 buffered messages
 [I 15:55:43.306 NotebookApp] Saving file at /uncertainly.ipynb
+[I 15:58:03.872 NotebookApp] Starting buffering for 445ec95c-8f75-4efe-8ee6-77b561afead1:3b9d25c86b1a4219bd2a482d3ba0e3af
+[I 16:01:43.306 NotebookApp] Saving file at /uncertainly.ipynb
+[IPKernelApp] WARNING | No such comm: 10e7e45b6b394e378cb0505369a491d1
+[IPKernelApp] WARNING | No such comm: 5aded83879044091b3e29233fdb6b1e9
+[I 16:03:43.314 NotebookApp] Saving file at /uncertainly.ipynb
